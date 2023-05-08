@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/Skoolgq/skoolv2#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "path": "^0.12.7"
   }
 }
